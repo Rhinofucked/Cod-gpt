@@ -1,3 +1,7 @@
-# Fullstack Tournament App
+# Tournament Web App
 
-Tournament and scoreboard web app project.
+- Backend: FastAPI
+- Frontend: React + Tailwind
+- Database: PostgreSQL
+- Auth: JWT + Discord OAuth
+- Ready for Raspberry Pi 3B (ARM)
